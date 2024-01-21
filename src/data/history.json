@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "NobleStudeouz-Tech",
+    "startDate": "2023",
+    "endDate": "Present",
+    "experiences": ["Built a chrome extension", "Enhancing user productivity"],
+    "imageSrc": "history/noblestudeouz.png"
+  },
+  {
+    "role": "Intern Frontend Engineer",
+    "organisation": "Skyscanner",
+    "startDate": "2023",
+    "endDate": "2023",
+    "experiences": [
+      "Worked on a Travel app.",
+      "Aid in organizing and recalling trip essentials"
+    ],
+    "imageSrc": "history/skyscanner.png"
+  },
+  {
+    "role": "Student Software Engineer",
+    "organisation": "Alx Africa",
+    "startDate": "2022",
+    "endDate": "2023",
+    "experiences": [
+      "Designed the database system for two ecommerce websites ",
+      "Dynamically coded the frontend interface to enhance user experience"
+    ],
+    "imageSrc": "history/alx.jpg"
+  }
+]

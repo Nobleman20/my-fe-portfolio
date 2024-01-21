@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Built my porfolio website to be fully responsive and attractive to viewers",
+    "skills": ["React", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Nobleman20/travellers-list-reactapp"
+  },
+  {
+    "title": "Travel App",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Developed feature for travelers, aiding in organizing and recalling trip essentials",
+    "skills": ["React", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Nobleman20/travellers-list-reactapp"
+  },
+  {
+    "title": "MyLeads",
+    "imageSrc": "projects/myleads.png",
+    "description": "Built a chrome extension to save and efficiently revisit leads from favorite links, enhancing user productivity",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Nobleman20/JavaScript-Projects-Scrimba/tree/main/Leads-Tracker"
+  },
+  {
+    "title": "GadgetHub",
+    "imageSrc": "projects/gadgethub.png",
+    "description": "Designed the database system and dynamically coded the frontend interface to enhance user experience",
+    "skills": ["JavaScript", "MySQL", "Node", "CSS", "HTML"],
+    "demo": "https://gadgethub-tech.netlify.app/index.html",
+    "source": "https://github.com/Kaych3e/Portfolio-Project"
+  }
+]

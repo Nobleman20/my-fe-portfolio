@@ -1,0 +1,52 @@
+[
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React.js",
+    "imageSrc": "skills/react.png"
+  },
+
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+  {
+    "title": "Shell Scripting",
+    "imageSrc": "skills/shell.png"
+  }
+]
