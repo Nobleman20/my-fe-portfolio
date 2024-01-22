@@ -4,23 +4,23 @@
     "imageSrc": "projects/portfolio.png",
     "description": "Built my porfolio website to be fully responsive and attractive to viewers",
     "skills": ["React", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/Nobleman20/travellers-list-reactapp"
+    "demo": "https://app.netlify.com/sites/emmanueloluyegeseportfolio",
+    "source": "https://github.com/Nobleman20/my-se-portfolio-react/tree/master"
   },
   {
     "title": "Travel App",
-    "imageSrc": "projects/portfolio.png",
+    "imageSrc": "projects/travelapp.png",
     "description": "Developed feature for travelers, aiding in organizing and recalling trip essentials",
     "skills": ["React", "CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://app.netlify.com/sites/farawaytravelersapp",
     "source": "https://github.com/Nobleman20/travellers-list-reactapp"
   },
   {
-    "title": "MyLeads",
+    "title": "Leads Tracker App",
     "imageSrc": "projects/myleads.png",
     "description": "Built a chrome extension to save and efficiently revisit leads from favorite links, enhancing user productivity",
     "skills": ["JavaScript", "CSS", "HTML"],
-    "demo": "https://www.example.com",
+    "demo": "",
     "source": "https://github.com/Nobleman20/JavaScript-Projects-Scrimba/tree/main/Leads-Tracker"
   },
   {
