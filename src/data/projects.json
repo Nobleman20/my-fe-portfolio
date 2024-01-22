@@ -4,7 +4,7 @@
     "imageSrc": "projects/portfolio.png",
     "description": "Built my porfolio website to be fully responsive and attractive to viewers",
     "skills": ["React", "CSS"],
-    "demo": "https://app.netlify.com/sites/emmanueloluyegeseportfolio",
+    "demo": "https://emmanueloluyege-se-portfolio.vercel.app/",
     "source": "https://github.com/Nobleman20/my-se-portfolio-react/tree/master"
   },
   {
