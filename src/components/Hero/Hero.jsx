@@ -8,9 +8,10 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Emmanuel</h1>
         <p className={styles.description}>
-          I am a Software Engineer who builds NextGen software solutions with
-          JavaScript, React.js, Node.js and many more technologies. I am a code
-          and data enthusiast. Kindly reach out to learn more.
+          I am a Frontend Software Engineer who builds interactive, responsive
+          and optimized frontend for NextGen software solutions with JavaScript,
+          React.js and other modern technologies that enhances performace.
+          Kindly reach out to learn more.
         </p>
         <a
           href="mailto:emmanueloluyege@gmail.com"

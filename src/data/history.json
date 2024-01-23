@@ -1,10 +1,13 @@
 [
   {
-    "role": "Software Engineer",
+    "role": "Frontend Engineer",
     "organisation": "NobleStudeouz-Tech",
     "startDate": "2023",
     "endDate": "Present",
-    "experiences": ["Built a chrome extension", "Enhancing user productivity"],
+    "experiences": [
+      "Develped a reponsive online clothing store.",
+      "Built the carting feature."
+    ],
     "imageSrc": "history/noblestudeouz.png"
   },
   {
@@ -24,8 +27,8 @@
     "startDate": "2022",
     "endDate": "2023",
     "experiences": [
-      "Designed the database system for two ecommerce websites ",
-      "Dynamically coded the frontend interface to enhance user experience"
+      "Dynamically coded the frontend interface of an ecommerce website",
+      "Enhances user experience"
     ],
     "imageSrc": "history/alx.jpg"
   }

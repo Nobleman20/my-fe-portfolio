@@ -12,22 +12,22 @@
     "imageSrc": "projects/travelapp.png",
     "description": "Developed feature for travelers, aiding in organizing and recalling trip essentials",
     "skills": ["React", "CSS"],
-    "demo": "https://app.netlify.com/sites/farawaytravelersapp",
+    "demo": "https://faraway-app.vercel.app/",
     "source": "https://github.com/Nobleman20/travellers-list-reactapp"
   },
   {
-    "title": "Leads Tracker App",
-    "imageSrc": "projects/myleads.png",
-    "description": "Built a chrome extension to save and efficiently revisit leads from favorite links, enhancing user productivity",
+    "title": "Online Clothing Store",
+    "imageSrc": "projects/clothingstore.png",
+    "description": "Built a responsive interface and the carting feature to enhance user experience and productivity",
     "skills": ["JavaScript", "CSS", "HTML"],
-    "demo": "",
-    "source": "https://github.com/Nobleman20/JavaScript-Projects-Scrimba/tree/main/Leads-Tracker"
+    "demo": "https://clothing-webstore.vercel.app/",
+    "source": "https://github.com/Nobleman20/clothing-ecommerce-app"
   },
   {
     "title": "GadgetHub",
     "imageSrc": "projects/gadgethub.png",
-    "description": "Designed the database system and dynamically coded the frontend interface to enhance user experience",
-    "skills": ["JavaScript", "MySQL", "Node", "CSS", "HTML"],
+    "description": "Dynamically coded the frontend interface to enhance user experience",
+    "skills": ["JavaScript", "CSS", "HTML"],
     "demo": "https://gadgethub-tech.netlify.app/index.html",
     "source": "https://github.com/Kaych3e/Portfolio-Project"
   }

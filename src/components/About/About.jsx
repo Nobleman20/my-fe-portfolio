@@ -16,31 +16,58 @@ const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div>
-              <h3>Frontend Developer </h3>
-              <p>
-                I have experience in building responsive and optimized software
-                applications.
-              </p>
+              <h3>Responsive Design</h3>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div>
-              <h3>Backend Developer </h3>
-              <p>
-                I have experience in building fast and optimized backend systems
-                and APIs.
-              </p>
+              <h3>Framework and Library Proficiency</h3>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div>
-              <h3>Database Designer </h3>
-              <p>
-                I have experience in designing and building data models for
-                applications.
-              </p>
+              <h3>Web Performance Optimization</h3>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div>
+              <h3>Cross-Browser Compatibility</h3>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div>
+              <h3>Testing and Debugging</h3>
+            </div>
+          </li>
+
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div>
+              <h3>API Integration</h3>
+            </div>
+          </li>
+
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div>
+              <h3>CSS Preprocessor</h3>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div>
+              <h3>Version Control Systems</h3>
+            </div>
+          </li>
+
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div>
+              <h3>Command Line Proficiency</h3>
             </div>
           </li>
         </ul>
