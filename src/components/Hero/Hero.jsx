@@ -10,7 +10,7 @@ const Hero = () => {
         <p className={styles.description}>
           I am a Frontend Software Engineer who builds interactive, responsive
           and optimized frontend for NextGen software solutions with JavaScript,
-          React.js and other modern technologies that enhances performace.
+          React.js and other modern technologies that enhances performance.
           Kindly reach out to learn more.
         </p>
         <a
