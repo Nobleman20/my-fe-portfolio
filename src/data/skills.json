@@ -32,5 +32,10 @@
   {
     "title": "Git",
     "imageSrc": "skills/git.png"
+  },
+
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
   }
 ]
