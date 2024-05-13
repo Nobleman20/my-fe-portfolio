@@ -13,6 +13,10 @@
     "imageSrc": "skills/typescript.png"
   },
   {
+    "title": "Next.js",
+    "imageSrc": "skills/Nextlogo.png"
+  },
+  {
     "title": "CSS",
     "imageSrc": "skills/css.png"
   },
