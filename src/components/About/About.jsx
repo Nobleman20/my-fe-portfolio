@@ -28,6 +28,12 @@ const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div>
+              <h3>Web and Mobile Development</h3>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div>
               <h3>Web Performance Optimization</h3>
             </div>
           </li>
